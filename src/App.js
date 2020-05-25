@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 
 import Home from './page/Home'
 import Modal from './page/examples/Modal'
@@ -10,7 +10,7 @@ import './app.scss'
 
 function App () {
   return (
-    <Router>
+    <Router basename='/'>
       <div className='App'>
         <Switch>
           <Route exact path='/' component={Home} />

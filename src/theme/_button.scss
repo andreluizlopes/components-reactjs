@@ -1,0 +1,75 @@
+.button{
+  box-sizing: border-box;
+  border-width: $border-thick;
+  font-size: $font-size-small;
+  font-weight: $font-weight-bold;
+  padding: .5rem $padding-base-horizontal;
+  line-height: 1.75;
+  cursor: pointer;
+  text-transform: uppercase;
+  background-color: #66615b;
+  border-color: #66615b;
+  color: #fff;
+  opacity: 1;
+  filter: alpha(opacity=100);
+  transition: all .15s linear;
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  -webkit-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+
+  &.button-border,
+  &.button-link{
+      background-color: $transparent-bg;
+  }
+
+  &:hover,
+  &:focus{
+      outline: 0 !important;
+  }
+  &:active,
+  &.active,
+  .open > &.dropdown-toggle {
+
+       outline: 0 !important;
+  }
+
+  &[class*="btn-outline-"]{
+      background-image: none;
+      background-color: transparent;
+  }
+
+  &--round {
+    border-radius: 30px;
+  }
+
+  &--outline-neutral {
+    border-color: #fff;
+    color: #fff;
+    opacity: 1;
+    filter: alpha(opacity=100);
+
+    &:hover {
+      color: #403d39!important;
+      background-color: #fff;
+    }
+  }
+
+
+}
+
+

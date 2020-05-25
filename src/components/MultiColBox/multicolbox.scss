@@ -1,0 +1,48 @@
+.multiColBox {
+  background: #000;
+  border: 1px solid hsla(0, 0%, 0%, 0.075);
+  padding: 1.5em;
+
+  &__title {
+    color: #fff;
+    border-bottom: 1px solid hsla(0, 0%, 0%, .1);
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    margin-bottom: 1em;
+    padding-bottom: .5em;
+    text-transform: uppercase;
+  }
+
+  &__content {
+    column-count: 1;
+    color: #fff;
+  }
+
+  &__content > aside {
+    color: #fff;
+  }
+}
+
+/* -------------- */
+/* Breakpoint: SM */
+/* -------------- */
+
+.SM > .multiColBox .multiColBox__content {
+  column-count: 2;
+}
+
+/* -------------- */
+/* Breakpoint: MD */
+/* -------------- */
+
+.MD > .multiColBox .multiColBox__content {
+  column-count: 3;
+}
+
+/* -------------- */
+/* Breakpoint: LG */
+/* -------------- */
+
+.LG > .multiColBox .multiColBox__content {
+  column-count: 4;
+}

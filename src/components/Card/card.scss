@@ -1,0 +1,63 @@
+.card {
+  background: #fff;
+  border: 1px solid hsla(0, 0%, 0%, 0.1);
+  border-radius: 4px;
+  display: flex;
+  flex-flow: column;
+  min-width: 0;
+  overflow: hidden;
+  padding: 1em;
+  position: relative;
+  transition: flex-grow 0.5s;
+
+  &__figure {
+    width: 100%;
+    min-width: 0;
+    margin-bottom: 1em;
+  }
+
+  &__image {
+    border: 1px solid #e46100;
+    padding: .25em;
+
+    &:after {
+      background: #e46100;
+      content: "";
+      display: block;
+      height: 0;
+      padding-top: 56.25%;
+      width: 100%;
+    }
+  }
+
+  &__body :last-child {
+    margin-bottom: 0;
+  }
+
+  &__title {
+    font-weight: 600;
+    font-size: 1.4em;
+    margin-bottom: calc(.75em / 1.4);
+  }
+}
+
+/* -------------- */
+/* Breakpoint: MD */
+/* -------------- */
+
+.MD .card {
+  flex-flow: row;
+
+  &__figure {
+    border-right: 1px solid #eee;
+    flex: 2;
+    margin-right: 1em;
+    margin-bottom: 0;
+    min-width: 0;
+    padding-right: 1em;
+  }
+  &__body {
+    min-width: 0;
+    flex: 5;
+  }
+}

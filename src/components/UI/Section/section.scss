@@ -1,0 +1,37 @@
+.section {
+  padding: 70px 0;
+  min-height: 100vh;
+  background-color: #0b1011;
+  color: #fff;
+  position: relative;
+
+  .title {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    min-height: 32px;
+    color: #fff;
+  }
+
+  a {
+    color: #fff;
+  }
+
+  p {
+    font-size: 24px;
+  }
+
+  ul {
+    font-size: 24px;
+    margin: 20px 0 30px;
+
+    li {
+      margin-bottom: 10px;
+    }
+  }
+
+  .next {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+  }
+}

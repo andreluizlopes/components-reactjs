@@ -2,6 +2,7 @@ import React from 'react'
 
 import Section from '../../../components/UI/Section'
 import Container from '../../../components/UI/Container'
+import Next from '../../../components/Next'
 
 import './rules.scss'
 
@@ -21,12 +22,7 @@ const Rules = () =>
       </p>
       <p>Um componente que será reutilizado por outros projetos não deveria se preocupar com a estrutura das páginas, e nem regras de interface como largura, paddings e margens externas.</p>
 
-      <a
-        href='#strategy'
-        type='link'
-        className='button button--round button--outline-neutral next'>
-        <span>▼</span>
-      </a>
+      <Next to='strategy' />
     </Container>
   </Section>
 

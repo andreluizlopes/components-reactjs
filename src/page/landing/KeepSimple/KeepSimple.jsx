@@ -2,6 +2,7 @@ import React from 'react'
 
 import Section from '../../../components/UI/Section'
 import Container from '../../../components/UI/Container'
+import Next from '../../../components/Next'
 
 import './keep-simple.scss'
 
@@ -18,12 +19,7 @@ const KeepSimple = () =>
       <p>Para evitar abstrações precoces e criar um componente com muita lógica para atender todos os cenários previstos, às vezes é melhor repetir e duplicar um componente.</p>
       <p>Um componente muito complexo custa caro, porque é difícil pensar em todos os cenários, e é difícil dar manutenção.</p>
 
-      <a
-        href='#rules'
-        type='link'
-        className='button button--round button--outline-neutral next'>
-        <span>▼</span>
-      </a>
+      <Next to='rules' />
     </Container>
   </Section>
 

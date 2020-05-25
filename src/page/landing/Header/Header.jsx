@@ -1,6 +1,7 @@
 import React from 'react'
 
 import Container from '../../../components/UI/Container'
+import Next from '../../../components/Next'
 
 import './header.scss'
 
@@ -11,12 +12,7 @@ const Header = () =>
         <h1>Componentes responsivos</h1>
         <h3>Boas práticas com componentes responsivos: react + scss</h3>
         <br />
-        <a
-          href='#about-me'
-          type='link'
-          className='button button--round button--outline-neutral next'>
-          <span>▼</span>
-        </a>
+        <Next to='about-me' />
       </div>
     </Container>
 

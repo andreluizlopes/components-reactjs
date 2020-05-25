@@ -2,6 +2,7 @@ import React from 'react'
 
 import Section from '../../../components/UI/Section'
 import Container from '../../../components/UI/Container'
+import Next from '../../../components/Next'
 
 import './about.scss'
 
@@ -34,13 +35,7 @@ const About = () => {
             </a>
           </div>
         </div>
-
-        <a
-          href='#intro'
-          type='link'
-          className='button button--round button--outline-neutral next'>
-          <span>▼</span>
-        </a>
+        <Next to='intro' />
       </Container>
     </Section>
   )

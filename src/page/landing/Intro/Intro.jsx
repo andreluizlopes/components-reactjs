@@ -2,6 +2,7 @@ import React from 'react'
 
 import Section from '../../../components/UI/Section'
 import Container from '../../../components/UI/Container'
+import Next from '../../../components/Next'
 
 import './intro.scss'
 
@@ -19,12 +20,7 @@ const Intro = () =>
       Após muitos web componentes feitos aqui na <a href='https://escale.com.br' target='_blank'>escale</a> quero demonstrar na prática, como é simples pensar em uma aplicação responsiva, e dar aos nossos usuários a melhor experiência em qualquer dispositivo.
       </p>
 
-      <a
-        href='#keep-simple'
-        type='link'
-        className='button button--round button--outline-neutral next'>
-        <span>▼</span>
-      </a>
+      <Next to='keep-simple' />
     </Container>
   </Section>
 

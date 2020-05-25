@@ -2,6 +2,7 @@ import React from 'react'
 
 import Section from '../../../components/UI/Section'
 import Container from '../../../components/UI/Container'
+import Next from '../../../components/Next'
 
 import './strategy.scss'
 
@@ -20,12 +21,7 @@ const Strategy = () =>
 
       <p>Agora que já encontramos todos os setores em comum do componente, podemos com mais clareza  iniciar o desenvolvimento, passando para o html  as divisões do componente, e usando css para controlá-las. Lembre-se, sempre Mobile First. Precisamos focar a nossa experiência em celulares.</p>
 
-      <a
-        href='#conclusion'
-        type='link'
-        className='button button--round button--outline-neutral next'>
-        <span>▼</span>
-      </a>
+      <Next to='conclusion' />
     </Container>
   </Section>
 

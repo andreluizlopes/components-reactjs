@@ -4,10 +4,12 @@ import Section from '../../../components/UI/Section'
 import Container from '../../../components/UI/Container'
 import Next from '../../../components/Next'
 
-import './rules.scss'
+import UIGridImage from './uigrid.png'
 
-const Rules = () =>
-  <Section className='rules' id='rules'>
+import './ui-components.scss'
+
+const UIComponents = () =>
+  <Section className='ui-components' id='ui-components'>
     <Container>
       <h2>Components x Components UI</h2>
 
@@ -22,8 +24,12 @@ const Rules = () =>
       </p>
       <p>Um componente que será reutilizado por outros projetos não deveria se preocupar com a estrutura das páginas, e nem regras de interface como largura, paddings e margens externas.</p>
 
-      <Next to='strategy' />
+      <p>Exemplo: componente UIGrid</p>
+
+      <img src={UIGridImage} alt='UIGrid component' />
+
+      <Next to='responsive' />
     </Container>
   </Section>
 
-export default Rules
+export default UIComponents

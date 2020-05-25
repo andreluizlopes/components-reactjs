@@ -5,8 +5,9 @@ import About from './About/About'
 import Intro from './Intro/Intro'
 import KeepSimple from './KeepSimple'
 import Responsibilities from './Responsibilities'
-import Rules from './Rules'
-import Strategy from './Strategy'
+import Container from './Container'
+import UIComponents from './UIComponents'
+import Responsive from './Responsive'
 import Conclusion from './Conclusion'
 
 const Landing = () => {
@@ -19,8 +20,9 @@ const Landing = () => {
         <Intro />
         <KeepSimple />
         <Responsibilities />
-        <Rules />
-        <Strategy />
+        <Container />
+        <UIComponents />
+        <Responsive />
         <Conclusion />
       </main>
     </div>

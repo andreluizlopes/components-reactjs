@@ -20,7 +20,7 @@ const About = () => {
               <h6 className='card-category'>software engineer</h6>
             </div>
             <p className='card-description text-center'>
-              front end engineer e entusiasta em UX
+              Front end engineer na Escale e entusiasta em UX
             </p>
           </div>
           <div className='text-center card-footer'>

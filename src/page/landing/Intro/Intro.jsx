@@ -17,7 +17,7 @@ const Intro = () =>
       </ul>
       <p>Nos dias de hoje, todos podemos concordar que uma aplicação web precisa ser responsiva.
       Existem várias abordagens na criação de componentes responsivos com o ReactJS.
-      Após muitos web componentes feitos aqui na <a href='https://escale.com.br' target='_blank'>escale</a> quero demonstrar na prática, como é simples pensar em uma aplicação responsiva, e dar aos nossos usuários a melhor experiência em qualquer dispositivo.
+      Após muitos web componentes feitos aqui na <a href='https://escale.com.br' target='_blank' rel='noopener noreferrer'>escale</a> quero demonstrar na prática, como é simples pensar em uma aplicação responsiva, e dar aos nossos usuários a melhor experiência em qualquer dispositivo.
       </p>
 
       <Next to='keep-simple' />

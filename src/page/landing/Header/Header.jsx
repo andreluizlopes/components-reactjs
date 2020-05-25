@@ -9,8 +9,8 @@ const Header = () =>
   <header id='header' className='header'>
     <Container>
       <div className='header__content'>
-        <h1>Componentes responsivos</h1>
-        <h3>Boas práticas com componentes responsivos: react + scss</h3>
+        <h1>Componentes ReactJS</h1>
+        <h3>Boas práticas com componentes em ReactJS</h3>
         <br />
         <Next to='about-me' />
       </div>

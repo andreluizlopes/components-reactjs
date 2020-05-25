@@ -1,28 +1,36 @@
 {
   "files": {
-    "main.css": "/responsive-components/static/css/main.c92ace5f.chunk.css",
-    "main.js": "/responsive-components/static/js/main.cf6be176.chunk.js",
-    "main.js.map": "/responsive-components/static/js/main.cf6be176.chunk.js.map",
+    "main.css": "/responsive-components/static/css/main.8c11f6e1.chunk.css",
+    "main.js": "/responsive-components/static/js/main.31234eed.chunk.js",
+    "main.js.map": "/responsive-components/static/js/main.31234eed.chunk.js.map",
     "runtime-main.js": "/responsive-components/static/js/runtime-main.222aa691.js",
     "runtime-main.js.map": "/responsive-components/static/js/runtime-main.222aa691.js.map",
-    "static/js/2.3e99ef21.chunk.js": "/responsive-components/static/js/2.3e99ef21.chunk.js",
-    "static/js/2.3e99ef21.chunk.js.map": "/responsive-components/static/js/2.3e99ef21.chunk.js.map",
+    "static/js/2.4b76fc65.chunk.js": "/responsive-components/static/js/2.4b76fc65.chunk.js",
+    "static/js/2.4b76fc65.chunk.js.map": "/responsive-components/static/js/2.4b76fc65.chunk.js.map",
     "index.html": "/responsive-components/index.html",
-    "precache-manifest.ebd65fa31f59fc637cf91ee8a9f3c590.js": "/responsive-components/precache-manifest.ebd65fa31f59fc637cf91ee8a9f3c590.js",
+    "precache-manifest.7e90c554499c7c38e2357da0a43519b1.js": "/responsive-components/precache-manifest.7e90c554499c7c38e2357da0a43519b1.js",
     "service-worker.js": "/responsive-components/service-worker.js",
-    "static/css/main.c92ace5f.chunk.css.map": "/responsive-components/static/css/main.c92ace5f.chunk.css.map",
-    "static/js/2.3e99ef21.chunk.js.LICENSE.txt": "/responsive-components/static/js/2.3e99ef21.chunk.js.LICENSE.txt",
+    "static/css/main.8c11f6e1.chunk.css.map": "/responsive-components/static/css/main.8c11f6e1.chunk.css.map",
+    "static/js/2.4b76fc65.chunk.js.LICENSE.txt": "/responsive-components/static/js/2.4b76fc65.chunk.js.LICENSE.txt",
     "static/media/intro.scss": "/responsive-components/static/media/background2.d7df3610.jpg",
     "static/media/cart.1f3ae972.svg": "/responsive-components/static/media/cart.1f3ae972.svg",
+    "static/media/container-layout.png": "/responsive-components/static/media/container-layout.3150d8d0.png",
     "static/media/headphone.36d74dec.svg": "/responsive-components/static/media/headphone.36d74dec.svg",
+    "static/media/home.png": "/responsive-components/static/media/home.d581234c.png",
+    "static/media/layout-prismic.jpg": "/responsive-components/static/media/layout-prismic.0f219bef.jpg",
+    "static/media/layout.png": "/responsive-components/static/media/layout.06d99e43.png",
     "static/media/phone.8643439e.svg": "/responsive-components/static/media/phone.8643439e.svg",
     "static/media/ringing-phone.282d00ea.svg": "/responsive-components/static/media/ringing-phone.282d00ea.svg",
-    "static/media/speech-balloon.f1e23c33.svg": "/responsive-components/static/media/speech-balloon.f1e23c33.svg"
+    "static/media/single-responsibility.jpeg": "/responsive-components/static/media/single-responsibility.ec44b036.jpeg",
+    "static/media/speech-balloon.f1e23c33.svg": "/responsive-components/static/media/speech-balloon.f1e23c33.svg",
+    "static/media/uigrid.png": "/responsive-components/static/media/uigrid.948a7046.png",
+    "static/media/weather-fetch.png": "/responsive-components/static/media/weather-fetch.df0a1364.png",
+    "static/media/weather.png": "/responsive-components/static/media/weather.f87d23dd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.222aa691.js",
-    "static/js/2.3e99ef21.chunk.js",
-    "static/css/main.c92ace5f.chunk.css",
-    "static/js/main.cf6be176.chunk.js"
+    "static/js/2.4b76fc65.chunk.js",
+    "static/css/main.8c11f6e1.chunk.css",
+    "static/js/main.31234eed.chunk.js"
   ]
 }

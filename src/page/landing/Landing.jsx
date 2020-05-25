@@ -4,6 +4,7 @@ import Header from './Header/Header'
 import About from './About/About'
 import Intro from './Intro/Intro'
 import KeepSimple from './KeepSimple'
+import Responsibilities from './Responsibilities'
 import Rules from './Rules'
 import Strategy from './Strategy'
 import Conclusion from './Conclusion'
@@ -17,6 +18,7 @@ const Landing = () => {
         <About />
         <Intro />
         <KeepSimple />
+        <Responsibilities />
         <Rules />
         <Strategy />
         <Conclusion />

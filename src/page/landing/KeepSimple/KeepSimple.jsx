@@ -19,7 +19,7 @@ const KeepSimple = () =>
       <p>Para evitar abstrações precoces e criar um componente com muita lógica para atender todos os cenários previstos, às vezes é melhor repetir e duplicar um componente.</p>
       <p>Um componente muito complexo custa caro, porque é difícil pensar em todos os cenários, e é difícil dar manutenção.</p>
 
-      <Next to='rules' />
+      <Next to='responsibilities' />
     </Container>
   </Section>
 

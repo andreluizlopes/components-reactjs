@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/responsive-components/static/css/main.c92ace5f.chunk.css",
+    "main.js": "/responsive-components/static/js/main.9809494b.chunk.js",
+    "main.js.map": "/responsive-components/static/js/main.9809494b.chunk.js.map",
+    "runtime-main.js": "/responsive-components/static/js/runtime-main.222aa691.js",
+    "runtime-main.js.map": "/responsive-components/static/js/runtime-main.222aa691.js.map",
+    "static/js/2.06d1fcd7.chunk.js": "/responsive-components/static/js/2.06d1fcd7.chunk.js",
+    "static/js/2.06d1fcd7.chunk.js.map": "/responsive-components/static/js/2.06d1fcd7.chunk.js.map",
+    "index.html": "/responsive-components/index.html",
+    "precache-manifest.1f07e894f82267957f78b1826f05862a.js": "/responsive-components/precache-manifest.1f07e894f82267957f78b1826f05862a.js",
+    "service-worker.js": "/responsive-components/service-worker.js",
+    "static/css/main.c92ace5f.chunk.css.map": "/responsive-components/static/css/main.c92ace5f.chunk.css.map",
+    "static/js/2.06d1fcd7.chunk.js.LICENSE.txt": "/responsive-components/static/js/2.06d1fcd7.chunk.js.LICENSE.txt",
+    "static/media/intro.scss": "/responsive-components/static/media/background2.d7df3610.jpg",
+    "static/media/cart.1f3ae972.svg": "/responsive-components/static/media/cart.1f3ae972.svg",
+    "static/media/headphone.36d74dec.svg": "/responsive-components/static/media/headphone.36d74dec.svg",
+    "static/media/phone.8643439e.svg": "/responsive-components/static/media/phone.8643439e.svg",
+    "static/media/ringing-phone.282d00ea.svg": "/responsive-components/static/media/ringing-phone.282d00ea.svg",
+    "static/media/speech-balloon.f1e23c33.svg": "/responsive-components/static/media/speech-balloon.f1e23c33.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.222aa691.js",
+    "static/js/2.06d1fcd7.chunk.js",
+    "static/css/main.c92ace5f.chunk.css",
+    "static/js/main.9809494b.chunk.js"
+  ]
+}

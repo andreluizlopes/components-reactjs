@@ -23,7 +23,7 @@ export const Item = ({ children }) => {
 
       Object.keys(breakpoints).forEach(function (breakpoint) {
         var minWidth = breakpoints[breakpoint]
-        console.log(entry.contentRect.width)
+
         if (entry.contentRect.width >= minWidth) {
           entry.target.classList.add(breakpoint)
         } else {

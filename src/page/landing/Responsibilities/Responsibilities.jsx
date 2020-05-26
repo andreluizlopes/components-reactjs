@@ -18,7 +18,7 @@ const Responsibilities = () =>
       <p>Uma abordagem comum quando estamos iniciando um projeto, por não ter visão de todos os casos de usabilidade e de regras de negócio, é desenvolver componentes com múltiplas responsabilidades.</p>
 
       <blockquote className='blockquote'>
-        <p>Essa estrutura ingênua é fácil de codificar no começo. As dificuldades aparecerão nas modificações posteriores, à medida que o aplicativo cresce e se torna mais complexo.</p>
+        <p>"Essa estrutura ingênua é fácil de codificar no começo. As dificuldades aparecerão nas modificações posteriores, à medida que o aplicativo cresce e se torna mais complexo."</p>
         <cite title='Source Title'>Dmitri Pavlutin</cite>
       </blockquote>
 

@@ -19,6 +19,7 @@ const About = () => {
               <h4 className='card-title'>André Lopes</h4>
               <h6 className='card-category'>software engineer</h6>
             </div>
+            <time datetime='2020-05-26 00:00'>Maio 26, 2020</time>
             <p className='card-description'>
               Front end engineer na Escale e entusiasta em UX
             </p>

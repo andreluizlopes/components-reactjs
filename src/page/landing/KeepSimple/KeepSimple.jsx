@@ -13,10 +13,11 @@ const KeepSimple = () =>
 
       <blockquote className='blockquote'>
         <p>"As vezes é melhor repetir, do que criar um componente super inteligente."</p>
-        <cite title='Source Title'>Andrea Zambrana</cite>
+        <cite title='Andrea Zambrana'>Andrea Zambrana</cite>
       </blockquote>
 
       <p>Para evitar abstrações precoces e criar um componente com muita lógica para atender todos os cenários previstos, às vezes é melhor repetir e duplicar um componente.</p>
+      <br />
       <p>Um componente muito complexo custa caro, porque é difícil pensar em todos os cenários, e é difícil dar manutenção.</p>
 
       <Next to='responsibilities' />

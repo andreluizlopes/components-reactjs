@@ -23,7 +23,7 @@ const UIComponents = () =>
         Devemos ter componentes e componentes de estrutura.
       </p>
       <p>Um componente que será reutilizado por outros projetos não deveria se preocupar com a estrutura das páginas, e nem regras de interface como largura, paddings e margens externas.</p>
-
+      <br />
       <p>Exemplo: componente UIGrid</p>
 
       <img src={UIGridImage} alt='UIGrid component' />

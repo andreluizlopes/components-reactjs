@@ -19,7 +19,7 @@ const Responsibilities = () =>
 
       <blockquote className='blockquote'>
         <p>"Essa estrutura ingênua é fácil de codificar no começo. As dificuldades aparecerão nas modificações posteriores, à medida que o aplicativo cresce e se torna mais complexo."</p>
-        <cite title='Source Title'>Dmitri Pavlutin</cite>
+        <cite title='Dmitri Pavlutin'>Dmitri Pavlutin</cite>
       </blockquote>
 
       <h3>Single responsibility principle (SRP)</h3>
@@ -28,7 +28,7 @@ const Responsibilities = () =>
 
       <p>Princípio de responsabilidade única, é quando o componente possui apenas uma responsabilidade, ou seja, existe apenas uma razão para alterá-lo.</p>
       <br />
-      <p>Se um componente tem múltiplas responsabilidades, e você precisar alterar uma responsabilidade que pode ter influência nas outras, causando problemas colaterais imprevistos.</p>
+      <p>Se um componente tem múltiplas responsabilidades, e você precisar alterar uma responsabilidade que por acaso tem influência nas outras, poderá causar problemas colaterais imprevistos.</p>
       <br />
       <p>Exemplo: um componente Weather que faz uma solicitação HTTP para um servidor especializado para obter o clima atual.</p>
 
@@ -39,7 +39,7 @@ const Responsibilities = () =>
       </p>
 
       <ul>
-        <li>Buscar lógica no useEffect: a URL do servidor ou o formato de resposta podem ser alterados</li>
+        <li>Fazer uma requisição no useEffect: a URL do servidor ou o formato de resposta podem ser alterados</li>
         <li>Visualização da interface: a maneira como o componente exibe o clima pode mudar várias vezes</li>
       </ul>
 

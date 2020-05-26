@@ -2,6 +2,8 @@
   background: #000;
   border: 1px solid hsla(0, 0%, 0%, 0.075);
   padding: 1.5em;
+  max-height: calc(100vh - 52px);
+  overflow-y: auto;
 
   &__title {
     color: #fff;

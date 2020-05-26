@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "325ff71507d11e7b2a3a2b420fb6bb47",
+    "revision": "6e31e1961b645f5503d247531715b9a7",
     "url": "/responsive-components/index.html"
   },
   {
-    "revision": "553daf1043f957d5d0eb",
+    "revision": "471172f776a00c49ecb8",
     "url": "/responsive-components/static/css/main.a368d4d3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/responsive-components/static/js/2.4b76fc65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "553daf1043f957d5d0eb",
-    "url": "/responsive-components/static/js/main.7a5b5a53.chunk.js"
+    "revision": "471172f776a00c49ecb8",
+    "url": "/responsive-components/static/js/main.67651c5d.chunk.js"
   },
   {
     "revision": "76e8750eec3750df60a0",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/responsive-components/static/media/cart.1f3ae972.svg"
   },
   {
-    "revision": "51ae4f713c990910123f1f3901436c45",
-    "url": "/responsive-components/static/media/container-layout.51ae4f71.png"
+    "revision": "5c34f20cd6acdca3b56fc8e60779a017",
+    "url": "/responsive-components/static/media/container-layout.5c34f20c.png"
   },
   {
     "revision": "36d74decc9e1c12667070fed3f287034",
@@ -68,15 +68,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/responsive-components/static/media/speech-balloon.f1e23c33.svg"
   },
   {
-    "revision": "948a70465922e792919328ee6a461b25",
-    "url": "/responsive-components/static/media/uigrid.948a7046.png"
+    "revision": "a40eb61e0d48ea4fbae5ec74896fc7ff",
+    "url": "/responsive-components/static/media/uigrid.a40eb61e.png"
   },
   {
-    "revision": "df0a13648478e77056286907387e3330",
-    "url": "/responsive-components/static/media/weather-fetch.df0a1364.png"
+    "revision": "fffd4d3221e5c74cdf2bfc86bffaf945",
+    "url": "/responsive-components/static/media/weather-fetch.fffd4d32.png"
   },
   {
-    "revision": "f87d23dd5ca910bda8ebe0b29f8cdd5d",
-    "url": "/responsive-components/static/media/weather.f87d23dd.png"
+    "revision": "e580c78b0005ff97829e2dfe37928e99",
+    "url": "/responsive-components/static/media/weather.e580c78b.png"
   }
 ]);

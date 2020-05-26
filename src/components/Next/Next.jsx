@@ -8,6 +8,7 @@ const Next = ({ to }) =>
     smooth
     duration={500}
     type='link'
+    title='Next'
     className='button button--round button--outline-neutral next'>
     <span style={{ 'fontSize': '14px' }}>▼</span>
   </Link>

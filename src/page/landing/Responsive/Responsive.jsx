@@ -20,8 +20,9 @@ const Responsive = () =>
         Porém quando estamos pensando em responsividade, eu procuro olhar a versão desktop primeiro.
         Ela normalmente possui a variação mais completa do componente pelo simples motivo que ter mais espaço na tela.</p>
 
+      <br />
       <p>Agora que já encontramos todos os setores em comum do componente, podemos com mais clareza  iniciar o desenvolvimento, passando para o html  as divisões do componente, e usando css para controlá-las. Lembre-se, sempre Mobile First. Precisamos focar a nossa experiência em celulares.</p>
-
+      <br />
       <p>Exemplos:</p>
       <ul>
         <li><Link to='examples/multicolbox'>MultiColBox</Link></li>

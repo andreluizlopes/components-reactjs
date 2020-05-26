@@ -5,7 +5,7 @@
   color: #fff;
   position: relative;
 
-  .title {
+  h2, .title {
     margin-top: 30px;
     margin-bottom: 25px;
     min-height: 32px;
@@ -17,15 +17,17 @@
   }
 
   p {
-    font-size: 24px;
+    font-size: 22px;
   }
 
   ul {
-    font-size: 24px;
-    margin: 20px 0 30px;
+    font-size: 22px;
+    margin: 20px 0 40px;
 
     li {
+      font-weight: 700;
       margin-bottom: 10px;
+      line-height: 30px;
     }
   }
 
@@ -35,7 +37,9 @@
   }
 
   .next {
-    float: right;
-    margin-top: 30px;
+    margin: 30px auto;
+    display: block;
+    max-width: 40px;
+    text-align: center;
   }
 }

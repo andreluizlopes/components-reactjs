@@ -10,7 +10,7 @@ const Conclusion = () =>
     <Container>
       <h2>Obrigado</h2>
 
-      <h4>Mais infirmações:</h4>
+      <h4>Mais informações:</h4>
 
       <ul>
         <li><cite><a href='https://www.youtube.com/watch?v=6WK0JFdTYws' target='_blank' rel='noopener noreferrer' >O que é arquitetura de software em front-end?</a></cite></li>

@@ -12,7 +12,7 @@ const KeepSimple = () =>
       <h2>Simples é melhor</h2>
 
       <blockquote className='blockquote'>
-        <p>As vezes é melhor repetir, do que criar um componente super inteligente.</p>
+        <p>"As vezes é melhor repetir, do que criar um componente super inteligente."</p>
         <cite title='Source Title'>Andrea Zambrana</cite>
       </blockquote>
 

@@ -1,3 +1,35 @@
-.conclusion {
-  
+.the-end {
+
+  &__content {
+    width: 500px;
+    animation-duration: 3s;
+    animation-name: changewidth;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    margin: 0 auto;
+  }
+
+  iframe {
+    width: 100%;
+    height: 500px;
+    border: none;
+    background: #38362d;
+  }
+
+  h2 {
+    text-align: center;
+    font-family: monospace;
+  }
+}
+
+@keyframes changewidth {
+  0% {
+    width: 100px;
+  }
+  70% {
+    width: 200px;
+  }
+  100% {
+    width: 500px;
+  }
 }

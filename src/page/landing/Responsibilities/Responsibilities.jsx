@@ -26,10 +26,10 @@ const Responsibilities = () =>
 
       <img src={SRPImage} alt='canivete' />
 
-      <p>Princípio de responsabilidade única, é quando o componente possui apenas uma responsabilidade, ou seja, existe apenas uma razão para alterá-lo.
-      Se um componente tem múltiplas responsabilidades, e você precisar alterar uma responsabilidade que pode ter influência nas outras, causando problemas colaterais imprevistos.
-      </p>
-
+      <p>Princípio de responsabilidade única, é quando o componente possui apenas uma responsabilidade, ou seja, existe apenas uma razão para alterá-lo.</p>
+      <br />
+      <p>Se um componente tem múltiplas responsabilidades, e você precisar alterar uma responsabilidade que pode ter influência nas outras, causando problemas colaterais imprevistos.</p>
+      <br />
       <p>Exemplo: um componente Weather que faz uma solicitação HTTP para um servidor especializado para obter o clima atual.</p>
 
       <img src={WeatherImage} alt='Weather componente' />

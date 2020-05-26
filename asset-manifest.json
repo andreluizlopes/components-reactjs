@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/responsive-components/static/css/main.8c11f6e1.chunk.css",
-    "main.js": "/responsive-components/static/js/main.31234eed.chunk.js",
-    "main.js.map": "/responsive-components/static/js/main.31234eed.chunk.js.map",
+    "main.css": "/responsive-components/static/css/main.95014bac.chunk.css",
+    "main.js": "/responsive-components/static/js/main.7a5b5a53.chunk.js",
+    "main.js.map": "/responsive-components/static/js/main.7a5b5a53.chunk.js.map",
     "runtime-main.js": "/responsive-components/static/js/runtime-main.222aa691.js",
     "runtime-main.js.map": "/responsive-components/static/js/runtime-main.222aa691.js.map",
     "static/js/2.4b76fc65.chunk.js": "/responsive-components/static/js/2.4b76fc65.chunk.js",
     "static/js/2.4b76fc65.chunk.js.map": "/responsive-components/static/js/2.4b76fc65.chunk.js.map",
     "index.html": "/responsive-components/index.html",
-    "precache-manifest.7e90c554499c7c38e2357da0a43519b1.js": "/responsive-components/precache-manifest.7e90c554499c7c38e2357da0a43519b1.js",
+    "precache-manifest.992c8873e1f689beab416a6c850a2af5.js": "/responsive-components/precache-manifest.992c8873e1f689beab416a6c850a2af5.js",
     "service-worker.js": "/responsive-components/service-worker.js",
-    "static/css/main.8c11f6e1.chunk.css.map": "/responsive-components/static/css/main.8c11f6e1.chunk.css.map",
+    "static/css/main.95014bac.chunk.css.map": "/responsive-components/static/css/main.95014bac.chunk.css.map",
     "static/js/2.4b76fc65.chunk.js.LICENSE.txt": "/responsive-components/static/js/2.4b76fc65.chunk.js.LICENSE.txt",
     "static/media/intro.scss": "/responsive-components/static/media/background2.d7df3610.jpg",
     "static/media/cart.1f3ae972.svg": "/responsive-components/static/media/cart.1f3ae972.svg",
-    "static/media/container-layout.png": "/responsive-components/static/media/container-layout.3150d8d0.png",
+    "static/media/container-layout.png": "/responsive-components/static/media/container-layout.51ae4f71.png",
     "static/media/headphone.36d74dec.svg": "/responsive-components/static/media/headphone.36d74dec.svg",
     "static/media/home.png": "/responsive-components/static/media/home.d581234c.png",
     "static/media/layout-prismic.jpg": "/responsive-components/static/media/layout-prismic.0f219bef.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.222aa691.js",
     "static/js/2.4b76fc65.chunk.js",
-    "static/css/main.8c11f6e1.chunk.css",
-    "static/js/main.31234eed.chunk.js"
+    "static/css/main.95014bac.chunk.css",
+    "static/js/main.7a5b5a53.chunk.js"
   ]
 }
